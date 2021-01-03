@@ -1,7 +1,6 @@
-# Practica3
-Pràctica 3 de laboratori de Software d'Aplicacions Distribuïdes
 # Chat amb Java
 Chat amb Swing de Java on la comunicació es duu a terme mitjançant Sockets.
+Pràctica 3 de laboratori de Software d'Aplicacions Distribuïdes
 
 ## Començant 🚀
 
@@ -10,24 +9,11 @@ Chat amb Swing de Java on la comunicació es duu a terme mitjançant Sockets.
 
 ### Pre-requisits 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
 
-### Instalación 🔧
+### Instalació 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
@@ -57,11 +43,10 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Hem utilitzat el Visual Studio Code per programar el projecte.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Visual Studio Code](https://code.visualstudio.com/) - El software de programació usat
+
 
 ## Contribuyendo 🖇️
 
@@ -77,14 +62,12 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
-## Licencia 📄
+## Llicencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
@@ -98,4 +81,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
