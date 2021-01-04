@@ -14,5 +14,16 @@ Hem hagut de realitzar una feina prèvia de documentació sobre
 Java Swing, per conèixer les idees bàsiques i buscar exemples per poder fer-nos
 una idea inicial.
 
-### Instal·lació 🔧
+### Instal·lació i execució 🔧
 
+Per executar el projecte cal descarregar el zip i executar  en primer lloc
+Servidor.java i a continuació executar tants clients com es desitgin. 
+
+## Instruccions d'ús 📖
+S'haurà d'executar primer el Servidor, on es podrà veure al terminal el desenvolupament
+del xat, qui es connecta i desconnecta i el registre del que diu cada usuari en l'ordre
+natural en què s'ha intervingut.
+Cada Client haurà d'introduïr un nickname per ser reconegut per la resta del xat.
+Per desconnectar-se del xat només hem de tancar la finestra o escriure al camp de 
+text ".desconnectar".
+_Servidor.java -> Client.java_
