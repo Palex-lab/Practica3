@@ -37,6 +37,9 @@ _Hem utilitzat el Visual Studio Code per programar el projecte.
 
 ## Autores ✒️
 
-* **Pol Fernández Blanquez** - *Developer* - [contact](pol.fernandez.blanquez@estudiantat.upc.edu)
-* **Alexis Navarro Vaquera** - *Developer* - [contact](#fulanito-de-tal)
+* **Pol Fernández Blanquez** - *Developer* 
+* **Alexis Navarro Vaquera** - *Developer* 
 
+## Agraïment 🎁
+A Carlos Contreras, per els seus inestimables consells.
+* Comenta a altres sobre el projecte! 📢
