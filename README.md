@@ -26,4 +26,7 @@ natural en què s'ha intervingut.
 Cada Client haurà d'introduïr un nickname per ser reconegut per la resta del xat.
 Per desconnectar-se del xat només hem de tancar la finestra o escriure al camp de 
 text ".desconnectar".
+```
 _Servidor.java -> Client.java_
+```
+
