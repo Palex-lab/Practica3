@@ -37,6 +37,6 @@ _Hem utilitzat el Visual Studio Code per programar el projecte.
 
 ## Autores ✒️
 
-* **Pol Fernández Blanquez** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Alexis Navarro Vaquera** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Pol Fernández Blanquez** - *Developer* - [contact](pol.fernandez.blanquez@estudiantat.upc.edu)
+* **Alexis Navarro Vaquera** - *Developer* - [contact](#fulanito-de-tal)
 
