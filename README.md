@@ -1,5 +1,5 @@
-# Chat amb Java
-Chat amb Swing de Java on la comunicació es duu a terme mitjançant Sockets.
+# Xat amb Java
+Xat amb Swing de Java on la comunicació es duu a terme mitjançant Sockets.
 Pràctica 3 de laboratori de Software d'Aplicacions Distribuïdes
 
 ## Començant 🚀
@@ -35,7 +35,7 @@ _Hem utilitzat el Visual Studio Code per programar el projecte._
 
 * [Visual Studio Code](https://code.visualstudio.com/) - El software de programació usat
 
-## Autores ✒️
+## Autors ✒️
 
 * **Pol Fernández Blanquez** - *Developer* 
 * **Alexis Navarro Vaquera** - *Developer* 
