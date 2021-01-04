@@ -27,6 +27,16 @@ Cada Client haurà d'introduïr un nickname per ser reconegut per la resta del x
 Per desconnectar-se del xat només hem de tancar la finestra o escriure al camp de 
 text ".desconnectar".
 ```
-_Servidor.java -> Client.java_
+Servidor.java -> Client.java
 ```
+### Creat amb 🛠️
+
+_Hem utilitzat el Visual Studio Code per programar el projecte.
+
+* [Visual Studio Code](https://code.visualstudio.com/) - El software de programació usat
+
+## Autores ✒️
+
+* **Pol Fernández Blanquez** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Alexis Navarro Vaquera** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
