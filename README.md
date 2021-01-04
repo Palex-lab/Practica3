@@ -31,7 +31,7 @@ Servidor.java -> Client.java
 ```
 ### Creat amb 🛠️
 
-_Hem utilitzat el Visual Studio Code per programar el projecte.
+_Hem utilitzat el Visual Studio Code per programar el projecte._
 
 * [Visual Studio Code](https://code.visualstudio.com/) - El software de programació usat
 
