@@ -25,7 +25,7 @@ del xat, qui es connecta i desconnecta i el registre del que diu cada usuari en 
 natural en què s'ha intervingut.
 Cada Client haurà d'introduïr un nickname per ser reconegut per la resta del xat.
 Per desconnectar-se del xat només hem de tancar la finestra o escriure al camp de 
-text ".desconnectar".
+text "Adeu".
 ```
 Servidor.java -> Client.java
 ```
