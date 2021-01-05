@@ -40,6 +40,4 @@ _Hem utilitzat el Visual Studio Code per programar el projecte._
 * **Pol Fernández Blanquez** - *Developer* 
 * **Alexis Navarro Vaquera** - *Developer* 
 
-## Agraïment 🎁
-A Carlos Contreras, per els seus inestimables consells.
-* Comenta a altres sobre el projecte! 📢
+
